@@ -5,7 +5,17 @@
 - Backpropagation
 - Bigram
 - Special chars
-- Distribution Sampling
+- Distribution Sampling algo
 - Broadcast
 - Loss
 - Smoothing
+- MLP
+- mini-batching
+- learning rate
+- Weight init
+    - Kaiming
+    - Xavier
+- Batch normalization
+- Layer norm
+- Instance norm
+- RMS norm
